@@ -12,7 +12,7 @@ export class User extends HTMLElement {
             break;
     
           case "species":
-            this.userSpecie = newValue;
+            this.userSpecies = newValue;
             break;
             case "gender":
                 this.userGender = newValue;
